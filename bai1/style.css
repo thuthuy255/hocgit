@@ -1,0 +1,34 @@
+
+ .container{
+        background-image: url(https://kenh14cdn.com/Images/Uploaded/Share/2011/09/09/28a110909kphimalaya152.jpg);
+        height: 300px;
+        background-repeat: no-repeat;
+        width: 100%;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }   
+.content{
+    margin-top: 10px;
+    text-align: center;
+    margin:auto;
+    justify-content: center;
+}
+.botton{
+    margin-top: 30px;
+    flex-direction: column;
+    display: flex;
+    border-radius: 3px;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(227,82,60);
+    width: 300px;
+    color: white;
+   justify-content: center;
+    padding: 3px 10px;
+    margin-left: 70px;
+    font-size: 19px;
+    box-shadow:3px 3px rgb(121, 61, 51);
+}
